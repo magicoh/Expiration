@@ -1,0 +1,5 @@
+name = Expiration
+description = Provides an expiration date CCK field
+core = 7.x
+package = Websliver
+dependencies[] = date
