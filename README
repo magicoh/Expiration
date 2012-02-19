@@ -1,0 +1,5 @@
+Expiration Field Module; Drupal 7.x.
+Module provides a simple DATE field (using the DATE API) to allow content creators to set an expiration date in their content. User will select whether the date is static or calculated.
+
+Static: Date provided is the Expiration Date.
+Calculated: Expiration date is x months after provided Date.
